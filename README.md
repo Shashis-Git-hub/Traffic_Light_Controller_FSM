@@ -5,6 +5,7 @@ Design and simulation of a Moore finite state machine (FSM) traffic light contro
 ## Simulation Results
 
 ### 1. Vivado Simulation Waveform
+
 ![Vivado Simulation Waveform](./Simulation_waveform.png)
 
 ### 2. RTL Schematic
